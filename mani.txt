@@ -1,0 +1,46 @@
+1. orders:
+array list: insertion
+linked list: insertion
+vector     : insertion
+linked HashSet: insertion
+linked HashMap: insertion
+treemap: ascending order
+HashMap : no order
+HashSet : no order
+SortedSet : some sorting order
+Queue : first in first out(fifo)
+Stack : first in last out(lifo)
+treeSet : ascending order
+HashTable : no order
+
+
+2.Duplicates Allows: 
+List 
+ 
+3.null elelments: 
+set: allows one null element.
+HashMap : one null key and multiple null values
+treemap: no null key and multiple null values
+HashTable : no null keys and no null values
+HashSet : one null element
+treeset : one null element
+array List: multiple null elements
+linked list: "
+vector :     "
+stack:       "
+
+4.internal structures:
+ ArrayList : dynamic array[storing,fetching]
+ Linked list : doubly linked list[Manipulations]
+ vector: dynamic array [legacy,synchronized]
+ stack : extends vector
+HashSet : HashTable 
+LinkedHashSet : linkedList + HashTable
+treeset: red and black tree algorithms
+treemap : balanced tree
+HashMap : HashTable
+ 
+5.Difference b/w interfaces: 
+ comparable and comparator :
+a.comparable available in java.lang package where comparator available in java.util package.
+b.in comparable we can sort based on one element where in comparator we can sort based on multiple elements.
